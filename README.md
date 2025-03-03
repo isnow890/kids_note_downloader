@@ -32,7 +32,7 @@
 
 1. 저장소 클론 또는 다운로드:
 ```bash
-git clone https://github.com/your-username/kids_note_downloader.git
+git clone https://github.com/isnow890/kids_note_downloader.git
 cd kids_note_downloader
 ```
 
